@@ -58,4 +58,21 @@ markmap:
 ### 1.3.3 Network of Networks
 - Network structures and their various configurations, including access ISPs, global transit ISPs, Points of Presence (PoP), multihoming, peering, and Internet Exchange Points (IXP)
 
-## 1.4 1.4 Delays, Loss, and Throughput in Packet-Switched Networks
+## 1.4 Delays, Loss, and Throughput in Packet-Switched Networks
+
+### Overview of delays and their causes
+- Queueing delay and packet loss
+- Overview of delays and their causes
+- End-to-end delays
+- Network throughput
+
+## 1.5 Protocol Layers and Their Services
+### 1.5.1 Layered Architecture
+- 5-Layer Internet Protocol stack: Application, Transport, Network, Link, Physical layers
+- 7-layer OSI reference model: 7-layer OSI reference model: Includes Presentation and Session layers between the Application and Transport layers
+
+## 1.6 Networks under attack
+### Malware types: viruses and worms
+### Denial of Service attacks (DoS), including vulnerability attacks, bandwidth flooding, and connection flooding
+
+
