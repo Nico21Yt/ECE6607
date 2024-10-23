@@ -74,5 +74,14 @@ markmap:
 ## 1.6 Networks under attack
 ### Malware types: viruses and worms
 ### Denial of Service attacks (DoS), including vulnerability attacks, bandwidth flooding, and connection flooding
+### Packet sniffing and IP spoofing
+
+## 1.7 History of Computer Networking and the Internet
+- The development of packet switching: 1961-1972
+- Proprietary networks and their interconnection: 1972-1980
+- The proliferation of networks: 1980-1990
+- The explosion of the Internet: 1990s
+- Recent developments
+
 
 
