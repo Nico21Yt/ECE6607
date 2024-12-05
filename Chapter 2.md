@@ -85,4 +85,33 @@ delineated
 - CONNECT: used by proxies for tunneling (1.1)
 - OPTIONS: request for server/proxy options (1.1)
 
+### 2.2.4 cookies
+- Many major Web sites use cookies 
+- Four components
+- What cookies can bring?(4 aspects)
+- Cookies and privacy
+
+## 2.3 Electronic Mail
+- Three major components: user agent, mail server, SMTP
+
+### 2.3.1 SMTP
+- Three phases in message transfer: Handshaking (greeting), Transfer of messages, Closure
+- Command/response interaction: ASCII text/ status code and phrase
+- All Messages must be in 7-bit ASCII
+
+### 2.3.2 Comparison with HTTP
+- HTTP pull vs SMTP push
+- SMTP need all 7-bit ASCLL
+- HTTP encapulate each object in the responce msg while SMTP put all objects in one msg
+
+### 2.3.3 Mail Message format
+
+### 2.3.4 Mail Access protocol
+
+## 2.4 DNS: DOMAIN NAME SYSTEM
+
+### 2.4.1  What service DNS provides?
+- DNS provides translation between host name and IP address
+- What DNS is ?(1 DNS server and 1 protocol runs on port:53, UDP)
+
 
