@@ -32,10 +32,7 @@ markmap:
 - Servers
 
 ### 1.2.1 Access Networks
-- Home access
-- Digital Subscriber Line(DSL)
-- Cable Internet access
-- Fiber to the Home(FTTH)
+- Home access:Digital Subscriber Line(DSL), Cable Internet access, Fiber to the Home(FTTH) and satellite
 - Business access: Ethernet and WiFi
 - Wide area wireless access: 3G and LTE
 
